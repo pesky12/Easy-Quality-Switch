@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label tabindex="-1" text="Quality Settings Component" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: middle-center; -unity-font-style: bold; font-size: 18px;" />
+    <uie:ObjectField label="Object Field" style="height: 67px;" />
+    <ui:VisualElement style="height: 105px;">
+        <ui:Label tabindex="-1" text="Gameobject Enabled in Quality modes" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+</ui:UXML>
