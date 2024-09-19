@@ -1,0 +1,17 @@
+{
+  "name": "vpm.pesky.box.easyqualityswitch",
+  "description": "Easier way to make quality settings for your world!",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "displayName": "Easy Quality Switch",
+  "hideInEditor": false,
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "author": {
+    "name": "Pesky12",
+    "url": "https://github.com/pesky12"
+  }
+}
